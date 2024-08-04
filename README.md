@@ -6,11 +6,9 @@
   - [Text](https://1)
 - <b>Automation: </b>
   - [Deploying a Basic Infrastructure Using CloudFormation Templates](https://github.com/recloudday/awsauto)
-  - [Text](https://1)
-  - [Text](https://1)
-  - [Text](https://1)
+  - [Automating Virtual Machine Deployments](https://github.com/recloudday/azurearm)
 - <b>Networking: </b>
-  - [Text](https://1)
+  - [Building a Three-Tier Network VPC from Scratch in AWS](https://github.com/recloudday/awsvpc)
   - [Text](https://1)
   - [Text](https://1)
 - <b>Security and Compliance: </b>
