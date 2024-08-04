@@ -5,7 +5,7 @@
 - <b>Architecture: </b>
   - [Text](https://1)
 - <b>Automation: </b>
-  - [Text](https://1)
+  - [Deploying a Basic Infrastructure Using CloudFormation Templates](https://github.com/recloudday/awsauto)
   - [Text](https://1)
   - [Text](https://1)
   - [Text](https://1)
