@@ -16,8 +16,7 @@
 - <b>Security and Compliance: </b>
   - [Text](https://1)
 - <b>System Administration: </b>
-  - [Text](https://1)
-  - [Text](https://1)
+  - [Azure/Entra and Active Directory - Create New Users and Groups](https://github.com/recloudday/azureaad)
   - [Text](https://1)
 
 <h2> 🤳 Connect or Read More About Me:</h2>
