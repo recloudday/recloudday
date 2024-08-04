@@ -3,12 +3,12 @@
 <h2>👨‍💻 Cloud Development Projects:</h2>
 
 - <b>Architecture: </b>
+  - [Building a Three-Tier Network VPC from Scratch in AWS](https://github.com/recloudday/awsvpc)
   - [Text](https://1)
 - <b>Automation: </b>
   - [Deploying a Basic Infrastructure Using CloudFormation Templates](https://github.com/recloudday/awsauto)
   - [Automating Virtual Machine Deployments](https://github.com/recloudday/azurearm)
 - <b>Networking: </b>
-  - [Building a Three-Tier Network VPC from Scratch in AWS](https://github.com/recloudday/awsvpc)
   - [Text](https://1)
   - [Text](https://1)
 - <b>Security and Compliance: </b>
