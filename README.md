@@ -9,7 +9,7 @@
   - [Deploying a Basic Infrastructure Using CloudFormation Templates](https://github.com/recloudday/awsauto)
   - [Automating Virtual Machine Deployments](https://github.com/recloudday/azurearm)
 - <b>Networking: </b>
-  - [Text](https://1)
+  - [Create a Standard Load Balancer with Azure CLI](https://github.com/recloudday/azureloadbal)
   - [Text](https://1)
 - <b>Security and Compliance: </b>
   - [Text](https://1)
