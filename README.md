@@ -11,6 +11,7 @@
   - [Create a Standard Load Balancer with Azure CLI](https://github.com/recloudday/azureloadbal)
 - <b>Security and Compliance: </b>
   - [Improve Incident Response with Azure Alerting](https://github.com/recloudday/azalert)
+  - [Using Secrets Manager to Authenticate with an RDS Database Using Lambda](https://github.com/recloudday/awslambdards)
 - <b>System Administration: </b>
   - [Azure/Entra and Active Directory - Create New Users and Groups](https://github.com/recloudday/azureaad)
   - [Introduction to AWS Identity and Access Management (IAM)](https://github.com/recloudday/awsiam)
