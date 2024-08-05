@@ -12,7 +12,7 @@
   - [Create a Standard Load Balancer with Azure CLI](https://github.com/recloudday/azureloadbal)
   - [Text](https://1)
 - <b>Security and Compliance: </b>
-  - [Text](https://1)
+  - [Improve Incident Response with Azure Alerting](https://github.com/recloudday/azalert)
 - <b>System Administration: </b>
   - [Azure/Entra and Active Directory - Create New Users and Groups](https://github.com/recloudday/azureaad)
   - [Introduction to AWS Identity and Access Management (IAM)](https://github.com/recloudday/awsiam)
