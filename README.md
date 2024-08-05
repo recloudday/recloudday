@@ -16,13 +16,14 @@
   - [Azure/Entra and Active Directory - Create New Users and Groups](https://github.com/recloudday/azureaad)
   - [Introduction to AWS Identity and Access Management (IAM)](https://github.com/recloudday/awsiam)
 
-<h2>🛜 Connect or Read More About Me:</h2>
+<h2>🛜 Connect or <a href="https://drive.google.com/file/d/1IYj_2ixpfVjyBAPE0OIIok_7M_pafCew/view?usp=drive_link">Read More About Me</a>:</h2>
 
 [<img align="left" alt="reday4 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DCCC | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/p/C4BleLzs4rH/
 [linkedin]: https://linkedin.com/in/reday4
+
 
 <!--
 
